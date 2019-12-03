@@ -10,15 +10,6 @@ _by Youssef Elkhouly_
 
 ---
 ## Initial Setup
-**Step 1** Create a local git repository
-
-**Step 2** Add a new file to the repository
-
-**Step 3** Add the file to the stage
-
-**Step 4** Create a commit
-
-**Step 5** Create a new repository on github
 
 **Steps I followed ** [SSH KEY](https://github.com/hstatsep/ide50)
 
@@ -40,6 +31,16 @@ _by Youssef Elkhouly_
 **git commit** Now that you've made your changes and staged them, you want to commit or confirm these changes on your own file which is done with git commit.
 
 **git push** This command will confirm and officially send your modifications to github.
+
+**Step 1** Create a local git repository
+
+**Step 2** Add a new file to the repository
+
+**Step 3** Add the file to the stage
+
+**Step 4** Create a commit
+
+**Step 5** Create a new repository on github
 
 
 ---
