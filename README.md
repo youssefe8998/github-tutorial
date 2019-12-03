@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Youssef Elkhouly>_
+_by Youssef Elkhouly_
 
 ---
 ## Git vs. GitHub
