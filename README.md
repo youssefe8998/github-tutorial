@@ -45,3 +45,4 @@ _by <Youssef Elkhouly>_
 ---
 ## Rolling Back Changes
 
+**git revert** Git revert command helps you undo any recent or existing commits.
