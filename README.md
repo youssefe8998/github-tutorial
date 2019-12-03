@@ -18,7 +18,7 @@ _by <Youssef Elkhouly>_
 
 **Step 4** Create a commit
 
-**Step 5** Crate a new repository on github
+**Step 5** Create a new repository on github
 
 **Steps I followed ** [SSH KEY](https://github.com/hstatsep/ide50)
 
