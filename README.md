@@ -47,3 +47,6 @@ _by Youssef Elkhouly_
 ## Rolling Back Changes
 
 **git revert** Git revert command helps you undo any recent or existing commits.
+Use "git add ." to add reverted changes to stage
+Use "git commit" to commit changes
+Use "git push" to push changes to github (confirming these changes)
