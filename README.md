@@ -15,11 +15,11 @@ _by Youssef Elkhouly_
 
 ---
 ## Repository Setup
-**Step 1** To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo.
+**Step 1** To create a new repo, you'll use the git init command in a new directory. git init is a one-time command you use during the initial setup of a new repo.
 
-**Step 2** Use git add command to add relevant files and changes.
+**Step 2** Use git add command after creating new files or relevant files and changes.
 
-**Step 3** Use git commit command to commit or confirm changes being made in the file
+**Step 3** Use git commit command to save or confirm changes being made in the file on the staging area.
 
 ---
 ## Workflow & Commands
