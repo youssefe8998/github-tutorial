@@ -11,7 +11,7 @@ _by Youssef Elkhouly_
 ---
 ## Initial Setup
 
-**Steps I followed ** [SSH KEY](https://github.com/hstatsep/ide50)
+**Steps I followed** [SSH KEY](https://github.com/hstatsep/ide50)
 
 ---
 ## Repository Setup
